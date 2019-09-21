@@ -17,9 +17,9 @@
   </parent>
 
 
-  <groupId>com.hannesdorfmann.annotatedadapter</groupId>
+  <groupId>com.github.goswami-mm.AnnotatedAdapter</groupId>
   <artifactId>parent</artifactId>
-  <version>1.1.2-SNAPSHOT</version>
+  <version>androidX2.0.0-rc</version>
   <packaging>pom</packaging>
 
   <name>AnnotatedAdapter Parent</name>
@@ -80,9 +80,9 @@
       </dependency>
 
       <dependency>
-        <groupId>com.android.support</groupId>
-        <artifactId>recyclerview-v7</artifactId>
-        <version>21.0.0-rc1</version>
+        <groupId>androidx.recyclerview</groupId>
+        <artifactId>recyclerview7</artifactId>
+        <version>1.0.0</version>
       </dependency>
 
       <dependency>
