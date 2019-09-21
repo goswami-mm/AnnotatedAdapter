@@ -19,7 +19,7 @@
 
   <groupId>com.github.goswami-mm.AnnotatedAdapter</groupId>
   <artifactId>parent</artifactId>
-  <version>androidX2.0.0-rc</version>
+  <version>androidX2.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <name>AnnotatedAdapter Parent</name>
