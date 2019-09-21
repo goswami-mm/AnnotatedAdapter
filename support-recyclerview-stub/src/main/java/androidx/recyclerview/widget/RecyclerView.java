@@ -1,12 +1,18 @@
 // IntelliJ API Decompiler stub source generated from a class file
 // Implementation of methods is not available
 
-package android.support.v7.widget;
+package androidx.recyclerview.widget;
+
+import android.view.View;
 
 public class RecyclerView {
 
   public static abstract class ViewHolder {
+    public ViewHolder(View v) {
+    }
 
+    public ViewHolder() {
+    }
   }
 
   public static abstract class Adapter<VH extends ViewHolder> {
